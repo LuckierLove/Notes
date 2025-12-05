@@ -1,5 +1,7 @@
 [
   "obsidian-style-settings",
   "obsidian-admonition",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-git",
+  "obsidian-custom-attachment-location"
 ]
