@@ -3,5 +3,6 @@
   "obsidian-admonition",
   "obsidian-linter",
   "obsidian-git",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "obsidian-pandoc"
 ]

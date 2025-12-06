@@ -4,5 +4,6 @@
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "baseFontSize": 17,
   "cssTheme": "Blue Topaz",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system"
 }
